@@ -21,6 +21,8 @@ int main(){
 
     tritset unit3 = unit | unit2;
 
+    tritset unitc(20);
+
     std::cout << "s";
     
     return 0;
